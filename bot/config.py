@@ -2,27 +2,27 @@ import os
 
 class Config:
 
-    BOT_TOKEN = ""
+    BOT_TOKEN = "5925105442:AAE9TCB6kmkLKbMUUlaAKZECmetxBS59RZ8"
 
-    SESSION_NAME = ""
+    SESSION_NAME = "Yotube"
 
-    API_ID = ""
+    API_ID = "26959103"
 
-    API_HASH = ""
+    API_HASH = "ebe24f37c6f8ee727fc406c68ba5bc70""
 
-    CLIENT_ID = ""
+    CLIENT_ID = "1020667533824-v6qjf0g71u6iaa0pbtspb4mfqj013ssj.apps.googleusercontent.com"
 
-    CLIENT_SECRET = ""
+    CLIENT_SECRET = "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"
 
-    AUTH_USERS = [942731625]
+    AUTH_USERS = [5657218265]
 
-    VIDEO_DESCRIPTION = ""
+    VIDEO_DESCRIPTION = "Tom & Jerry ｜ Is Jerry Taking Care of Tom？ ｜ Classic Cartoon ｜ WB Kids"
 
-    VIDEO_CATEGORY = ""
+    VIDEO_CATEGORY = "cartoon"
 
-    VIDEO_TITLE_PREFIX = ""
+    VIDEO_TITLE_PREFIX = "kids"
 
-    VIDEO_TITLE_SUFFIX = ""
+    VIDEO_TITLE_SUFFIX = "kids"
     
     DEBUG = bool()
 
